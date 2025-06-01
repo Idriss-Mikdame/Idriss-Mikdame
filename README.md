@@ -1,9 +1,14 @@
    <h1 align="center">
         🙋‍♂️ Idriss Mikdam - Développeur Fullstack 💻
       </h1>
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-      </p>
+   <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Idriss+Mikdam;Développeur+Fullstack+Java+%7C+Angular;Bienvenue+sur+mon+GitHub+👨‍💻" alt="Typing SVG" />
+</h1>
+
+<!-- Image centrale -->
+<p align="center">
+  <img src="https://github.com/Idriss-Mikdam/Idriss-Mikdam/blob/main/assets/dev-illustration.png" width="400" alt="Coding Developer Illustration" />
+</p>
 
 
 # 💻 Tech Stack:
