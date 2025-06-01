@@ -6,13 +6,6 @@
       </p>
 
 
-
-
-
-
-
----
-
 ## 💻 Tech Stack:
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
