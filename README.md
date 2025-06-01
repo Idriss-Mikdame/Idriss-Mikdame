@@ -1,8 +1,9 @@
-<h1 align="center">
-  <span style="font-size:40px; font-weight:bold;">
-    👋 Bonjour, je suis <span style="color:#00c4cc">Idriss Mikdam</span>
-  </span>
-</h1>
+   <h1 align="center">
+        🙋‍♂️ Idriss Mikdam - Développeur Fullstack 💻
+      </h1>
+      <p align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+      </p>
 
 
 # 💻 Tech Stack:
