@@ -8,13 +8,7 @@
 
 ---
 
-## 🌐 Socials:
-## 🌐 Socials:
 
-[![LinkedIn](https://www.linkedin.com/in/idriss-mikdame-669b0633b/)
-[![Facebook](https://www.facebook.com/profile.php?id=100009171597193)
-[![Discord](https://discord.com/channels/1378737005415891024/1378737005415891027)
-[![Instagram](https://www.instagram.com/idrissmikdame)
 
 
 ---
